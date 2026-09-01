@@ -165,14 +165,3 @@ GoShare es un proyecto personal enfocado en aprender y aplicar conceptos de:
 
 ---
 
-## 🤝 Contribuciones
-
-Las contribuciones, ideas y mejoras son bienvenidas.
-
-Si encuentras un problema o tienes una sugerencia, puedes abrir un **Issue** o crear un **Pull Request**.
-
----
-
-## 📄 Licencia
-
-Este proyecto está disponible bajo la licencia **MIT**.
